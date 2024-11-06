@@ -928,10 +928,10 @@ collections:
             name: '-7b190600'
             widget: string
           - hint: >-
-              Original text: производство антифризов, теплоносителей и
-              хладагентов, key: 415e4dbb
+              Original text: производство антифризов для автомобилей, key:
+              79afb619
             label: Text
-            name: 415e4dbb
+            name: 79afb619
             widget: string
           - hint: >-
               Original text: Собственные разработки ингибиторов коррозии,
